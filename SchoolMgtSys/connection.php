@@ -1,9 +1,9 @@
 
 <?php
-    $servername = "localhost";
-    $username = "root";
-    $password = "";
-    $dbname = "urat_asessdb";
+$servername = "remotemysql.com";
+    $username = "17ZLeXMHDA";
+    $password = "RDPcr5WPwQ";
+     $dbname = " 17ZLeXMHDA";
 
     $conn = new mysqli($servername,$username,$password,$dbname);
 
